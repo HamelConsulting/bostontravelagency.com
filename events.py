@@ -19,7 +19,7 @@ EVENTS = [
   "img": 'faneuil', "story": ['Bagpipes, marching bands, floats and a sea of green fill Broadway in South Boston, with hundreds of thousands of people cheering along the route.', "Few American cities are as proudly Irish as Boston, and the parade also marks Evacuation Day, when George Washington's army drove the British out of Boston on March 17, 1776. It is history and a party rolled into one.", "Make it part of your trip: wear green, take the Red Line to Broadway, and finish the day in one of the city's historic Irish pubs."],
   "tour": ("Freedom Trail History Pub Crawl", "/tours/Boston/Independence-Pub-Crawl/d678-74233P1"), "link": "https://www.southbostonparade.org/"},
  {"slug": "opening-day", "name": "Red Sox Opening Day at Fenway", "where": "Fenway Park",
-  "month": 4, "when": "Late March or early April; see the Red Sox schedule",
+  "month": 4, "when": "Late March or early April; see the Red Sox schedule", "confirmed": {2027: ("2027-04-01", "2027-04-01")},
   "img": 'fenway', "story": ["Red, white and blue bunting hangs from Fenway's grandstands, the whole team lines up along the baselines, and the first pitch at Opening Day feels like the end of a long New England winter.", 'Fenway Park opened in 1912 and is the oldest ballpark in the major leagues. Seeing the Green Monster on Opening Day, with the city buzzing all around Kenmore Square, is something Red Sox fans never forget.', 'Make it part of your trip: tickets are tough, so if you miss out, a Fenway Park tour gets you up on the Green Monster any day of the season.'],
   "tour": ("Tour of Historic Fenway Park", "/tours/Boston/Tour-of-Historic-Fenway-Park-Americas-Most-Beloved-Ballpark/d678-43406P1"), "link": "https://www.mlb.com/redsox"},
  {"slug": "patriots-day", "name": "Patriots' Day Reenactments", "where": "Lexington and Concord",
@@ -31,7 +31,7 @@ EVENTS = [
   "img": 'marathon', "story": ['Half a million people line the 26.2 miles from Hopkinton to Boylston Street, ringing cowbells, handing out orange slices and cheering for perfect strangers by name.', "Run every year since 1897, Boston is the world's oldest annual marathon and the one serious runners dream of qualifying for. The roar from the crowd as runners turn onto Boylston for the final stretch is pure Boston.", "Make it part of your trip: watch near the finish line in the Back Bay or at Heartbreak Hill in Newton, and book your hotel months ahead. Marathon Monday is also Patriots' Day, so you can catch the dawn reenactment first."],
   "tour": None, "link": "https://www.baa.org/"},
  {"slug": "boston-calling", "name": "Boston Calling Music Festival", "where": "Harvard Athletic Complex, Allston",
-  "rule": ("memorial_weekend",), "when": "Memorial Day weekend, Friday to Sunday",
+  "rule": ("weekend_of", 6, 1), "when": "Early June, Friday to Sunday", "confirmed": {2027: ("2027-06-04", "2027-06-06")},
   "img": 'harvard', "story": ['Three days of headline bands, local favorites, food trucks and summer sunshine on the fields just across the river from Harvard Square.', 'Boston Calling kicks off the summer for the whole city, and it is easy to reach by T, so you can stay downtown and still catch every set.', 'Make it part of your trip: spend the mornings in Cambridge exploring Harvard Yard and Harvard Square, then head to the festival for the afternoon and evening shows.'],
   "tour": None, "link": "https://bostoncalling.com/"},
  {"slug": "july-4", "name": "Fourth of July and the Boston Pops Fireworks", "where": "Charles River Esplanade",
@@ -39,7 +39,7 @@ EVENTS = [
   "img": 'ev_july4', "story": ['Hundreds of thousands of people spread blankets on the Esplanade as the Boston Pops play patriotic favorites at the Hatch Shell, finishing with the 1812 Overture, real cannon fire and fireworks bursting over the Charles.', 'In July 1776 the Declaration of Independence was read to Bostonians from the balcony of the Old State House, and the reading is repeated there every Fourth. The whole city celebrates like it. On the morning of the Fourth, USS Constitution sails out for its annual turnaround cruise in the harbor.', 'Make it part of your trip: hear the Declaration read from the Old State House balcony in the morning, then claim a spot on the Esplanade by early afternoon. A harbor cruise is a great way to see the city from the water that week.'],
   "tour": ("Boston Harbor Sunset Cruise", "/tours/Boston/Northern-Lights-Sunset-Cruise/d678-5985P4"), "link": "https://www.bso.org/boston-pops-fireworks-spectacular"},
  {"slug": "sand-sculpting", "name": "International Sand Sculpting Festival", "where": "Revere Beach",
-  "rule": ("weekend_of", 7, 4), "when": "A weekend in late July", "confirmed": {2027: ("2027-07-23", "2027-07-25")},
+  "rule": ("weekend_of", 7, 4), "when": "A weekend in late July",
   "img": 'sandcastle', "story": ["World-class sand sculptors from around the globe turn America's first public beach into an open-air gallery, carving castles, faces and fantastic creatures that seem impossible to make from sand and water alone.", 'It is one of the biggest free events in New England, with fireworks, food vendors, rides and live music along the boardwalk. Watching the artists work, grain by grain, over the three days is half the fun.', "Make it part of your trip: take the Blue Line straight to Revere Beach station in about 20 minutes from downtown, and stay for a swim and a famous Kelly's roast beef sandwich."],
   "tour": None, "link": "https://internationalsandsculptingfestival.com/"},
  {"slug": "fishermans-feast", "name": "Fisherman's Feast", "where": "North End",
@@ -47,7 +47,7 @@ EVENTS = [
   "img": 'fishfeast', "story": ['Strings of lights, Italian music, sizzling sausage and peppers and fresh zeppole fill the narrow streets of the North End for four days in August.', "Started in 1910 by fishermen from Sciacca, Sicily, this is Boston's oldest Italian feast. The highlight is the Flight of the Angel on Sunday, when a young girl dressed as an angel is lowered on ropes above North Street to honor the Madonna. Crowds hold their breath.", 'Make it part of your trip: it is steps from the Paul Revere House and Old North Church, so combine it with a North End food tour or the Freedom Trail.'],
   "tour": ("North End Food Tour: Pizza, Pasta and Pastries", "/tours/Boston/North-End-Boston-Food-Tour/d678-91367P3"), "link": "https://www.fishermansfeast.com/"},
  {"slug": "st-anthonys", "name": "Saint Anthony's Feast", "where": "North End",
-  "rule": ("last_weekend", 8), "when": "The last full weekend of August",
+  "rule": ("last_weekend", 8, 3), "when": "The last weekend of August, Thursday to Sunday", "confirmed": {2027: ("2027-08-26", "2027-08-29")},
   "img": 'mikes', "story": ["The 'Feast of all Feasts' takes over Endicott and Thacher Streets with food stalls, cannoli, strolling singers and a festival crowd that feels like a giant neighborhood block party.", 'On Sunday, the statue of Saint Anthony is carried through the North End for about ten hours, covered in ribbons of dollar bills pinned on by the faithful and followed by marching bands. It is a living piece of Italian-American history you will not find anywhere else.', "Make it part of your trip: go on Sunday for the procession, then grab a cannoli on Hanover Street. The whole neighborhood looks forward to this weekend all year."],
   "tour": ("North End Food Tour with Wine and Limoncello", "/tours/Boston/Off-The-Eaten-Path-Tours/d678-331804P2"), "link": "https://www.stanthonysfeast.com/"},
  {"slug": "salem-october", "name": "Salem Haunted Happenings", "where": "Salem",
@@ -59,7 +59,7 @@ EVENTS = [
   "img": 'hocr', "story": ['Thousands of rowing crews race up the winding Charles River, three at a time, while spectators line the bridges and riverbanks with coffee, cider donuts and blankets.', "It is the largest three-day rowing event in the world, drawing Olympians, college crews and masters rowers from around the globe, all against a backdrop of fall leaves, Harvard's boathouses and the Boston skyline.", "Make it part of your trip: watch from the Weeks or Eliot Bridges for the best views of the tight turns, and book your hotel early. October is Boston's busiest season."],
   "tour": ("Boston Duck Boat Tour with Charles River Splash", "/tours/Boston/Boston-Duck-Boat-Sightseeing-City-Tour-with-Cruise/d678-3037DUCK"), "link": "https://www.hocr.org/"},
  {"slug": "tree-lighting", "name": "Boston Common Tree Lighting", "where": "Boston Common",
-  "rule": ("nth_weekday", 12, 3, 1, 1), "when": "Usually the first Thursday in December",
+  "rule": ("nth_weekday", 12, 3, 1, 1), "when": "Usually the first Thursday in December", "confirmed": {2026: ("2026-12-03", "2026-12-03")},
   "img": 'statehouse', "story": ["Carolers, ice skating on the Frog Pond and thousands of twinkling lights draped through Boston Common, all leading up to the countdown to light the city's official Christmas tree.", "Every year since 1971, Nova Scotia has sent Boston its tree as a thank-you for the city's help after the 1917 Halifax Explosion. It is a warm holiday tradition with a story behind it.", "Make it part of your trip: stroll Beacon Hill's gaslit streets afterward, and see the holiday windows and the tree at Faneuil Hall."],
   "tour": None, "link": "https://www.boston.gov/calendar/boston-common-tree-lighting"},
  {"slug": "tea-party", "name": "Boston Tea Party Reenactment", "where": "Old South Meeting House and the waterfront",
@@ -97,7 +97,7 @@ def dates_for(ev, y):
     if k == "weekend_of":  # Fri (or r[3] days earlier) to the nth Sunday of the month
         s = _nth(y, r[1], 6, r[2]); return s - dt.timedelta(r[3] if len(r) > 3 else 2), s, False
     if k == "last_weekend":
-        s = _last(y, r[1], 6); return s - dt.timedelta(2), s, False
+        s = _last(y, r[1], 6); return s - dt.timedelta(r[2] if len(r) > 2 else 2), s, False
     if k == "hocr":
         s = _nth(y, 10, 6, 3); return s - dt.timedelta(2), s, False
     raise ValueError(k)

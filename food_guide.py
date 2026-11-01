@@ -94,7 +94,7 @@ CLASSICS = [
 TRENDING = [
  {"name": "Maple & Ash", "where": "Seaport Blvd., Seaport", "what": "A splashy Chicago steakhouse known for its fire-roasted seafood towers and a dramatic, moody dining room."},
  {"name": "Mai", "where": "Seaport", "what": "A stylish French-Japanese spot with Labubus in the rafters. Built for photos, but the handrolls and wagyu steak frites hold up."},
- {"name": "Island Creek Raw Bar", "where": "Seaport, seasonal", "what": "The outdoor summer raw bar from the famous Duxbury oyster farm. Oysters, rosé and harbor breezes."},
- {"name": "Cisco Brewers Seaport", "where": "Seaport Blvd., April to October", "what": "Nantucket's beloved brewery runs a giant, dog-friendly beer garden with food trucks and cocktails."},
+ {"name": "Willie's", "where": "Charles St., Beacon Hill", "what": "A lively new neighborhood pizzeria with charred, chewy pies, house-made pastas and a fun cocktail list. Book on Resy."},
+ {"name": "Rosa y Marigold", "where": "Newbury St., Back Bay", "what": "A glamorous Peruvian dining room at Lyrik Back Bay with causas, seafood and live music. Brunch on weekends."},
  {"name": "311 Omakase", "where": "South End", "what": "Boston's first Michelin-starred restaurant: an intimate 10-seat sushi counter. Book well ahead."},
 ]

@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Boston Travel Agency//Events//EN
+BEGIN:VEVENT
+UID:opening-day-2027@bostontravelagency.com
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270402
+SUMMARY:Red Sox Opening Day at Fenway
+LOCATION:Fenway Park\, Boston area
+DESCRIPTION:Red\, white and blue bunting hangs from Fenway's grandstands\, the whole team lines up along the baselines\, and the first pitch at Opening Day feels like the end of a long New England winter. More: https://bostontravelagency.com/boston-events/#opening-day
+URL:https://bostontravelagency.com/boston-events/#opening-day
+END:VEVENT
+END:VCALENDAR

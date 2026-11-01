@@ -67,8 +67,8 @@ DAYS = [
     [("Turner's Seafood at Lyceum Hall", "Salem", "Seafood in a historic hall where Alexander Graham Bell once lectured")]),
    ("Option 2: Lexington & Concord", "Stand on Lexington Green and Concord's Old North Bridge, where the Revolution began on April 19, 1775, then visit Walden Pond and Louisa May Alcott's Orchard House.",
     [("Private Day Trip to Lexington and Concord", "/tours/Boston/Private-Day-Trip-to-Lexington-and-Concord-from-Boston/d678-400049P5")], []),
-   ("Option 3: Plymouth", "Board Mayflower II, visit Plimoth Patuxet Museums and see Plymouth Rock, with a stop in Quincy, home of two presidents, on the way.",
-    [("Plymouth Day Trip with Quincy, Plimoth Patuxet and Mayflower II", "/tours/Boston/Full-Day-Plymouth-and-Cape-Cod-Tour-from-Boston/d678-5491P4")], []),
+   ("Option 3: Plymouth", "Drive about an hour south to board Mayflower II, visit Plimoth Patuxet Museums and see Plymouth Rock.",
+    [("Plimoth Patuxet Museums and Mayflower II tickets", "/tours/Plymouth/Plimoth-Patuxet-Museums/d50557-6324PLIM")], []),
    ("Farewell evening", "Back in Boston, toast your trip with a classic Italian dinner in the North End.", [],
     [("Mamma Maria", "North Square, North End", "Upscale Italian in a townhouse facing the Paul Revere House")]),
   ]},
@@ -78,5 +78,5 @@ SEASONAL = [
  ("Spring through fall", "Swap in a whale watch on Day 2 or Day 4. Boats sail to Stellwagen Bank from the downtown waterfront.", ("Boston Whale Watching Cruise", "/tours/Boston/Boston-Whale-Watching-Cruise/d678-3283BWW")),
  ("October", "Salem's Haunted Happenings and the Head of the Charles Regatta. Book early.", None),
  ("Evenings", "Add a ghost tour by trolley through Boston's old burying grounds.", ("Ghosts & Gravestones Trolley Tour", "/tours/Boston/Boston-Ghosts-and-Gravestones-Tour/d678-5046BOS_GG")),
- ("Late September to mid-October", "Trade the Day 5 trip for a fall foliage day in New Hampshire's White Mountains.", ("New Hampshire Fall Foliage Day Trip", "/tours/Boston/Fall-foliage-tour-in-New-Hampshire/d678-66192P4")),
+ ("Late September to mid-October", "Trade the Day 5 trip for a fall foliage drive to New Hampshire's White Mountains, about 2.5 hours north.", None),
 ]

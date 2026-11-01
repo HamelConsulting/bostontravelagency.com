@@ -16,13 +16,13 @@ DAYTRIPS = {
    "Concord is also America's literary hometown. Emerson, Henry David Thoreau, Louisa May Alcott and Nathaniel Hawthorne all lived here. You can visit Alcott's Orchard House, where she wrote Little Women, and walk around Walden Pond.",
   ]},
   {"h": "Plymouth: America's hometown", "img": "plymouth", "paras": [
-   "About 40 miles south of Boston, Plymouth is where the Pilgrims landed in 1620. Mayflower II, a full-size replica of their ship, is docked on the waterfront, and Plimoth Patuxet Museums bring to life both the English colony and the Wampanoag homesite. Plymouth Rock is a short walk away. It is a [[great day trip|/tours/Boston/Full-Day-Plymouth-and-Cape-Cod-Tour-from-Boston/d678-5491P4]] for families and history lovers.",
+   "About 40 miles south of Boston, Plymouth is where the Pilgrims landed in 1620. Mayflower II, a full-size replica of their ship, is docked on the waterfront, and Plimoth Patuxet Museums bring to life both the English colony and the Wampanoag homesite. Plymouth Rock is a short walk away. It is a [[great day trip|/tours/Plymouth/Plimoth-Patuxet-Museums/d50557-6324PLIM]] for families and history lovers.",
   ]},
   {"h": "Cape Cod, the Islands and the coast", "img": "vineyard", "paras": [
    "<strong>Martha's Vineyard.</strong> [[Take the ferry for a day|/tours/Boston/Day-Trip-to-Marthas-Vineyard/d678-5491MARTHA]] of gingerbread cottages in Oak Bluffs, whaling captains' houses in Edgartown and some of the prettiest beaches in New England.",
    "<strong>Cape Ann.</strong> Gloucester, America's oldest seaport, and the art colony of Rockport are about an hour north. Add [[Hammond Castle|/tours/Boston/Private-Day-Trip-to-Salem-and-Hammond-Castle-from-Boston/d678-400049P15]], a medieval-style castle built on the cliffs in the 1920s.",
    "<strong>Newport, Rhode Island.</strong> About 90 minutes south, the Gilded Age mansions of the Vanderbilts and their friends line the ocean along the Cliff Walk.",
-   "<strong>Fall foliage.</strong> From late September to mid-October, the [[White Mountains of New Hampshire|/tours/Boston/Fall-foliage-tour-in-New-Hampshire/d678-66192P4]] and the hills of Vermont and western Massachusetts put on one of the world's great color shows.",
+   "<strong>Fall foliage.</strong> From late September to mid-October, the White Mountains of New Hampshire and the hills of Vermont and western Massachusetts put on one of the world's great color shows.",
   ]},
  ],
  "feature": {"h": "Quick guide: how far is it?", "cols": True, "items": [
@@ -33,9 +33,8 @@ DAYTRIPS = {
  ]},
  "tours": [
   ("Salem High-Speed Ferry from Boston", "/tours/Boston/Salem-High-Speed-Ferry/d678-3283SALEM", "The easiest way to Salem. About 50 minutes each way, with harbor views and no traffic.", "50 min each way", 42, 4.5, "790+"),
-  ("Plymouth Day Trip with Quincy, Plimoth Patuxet and Mayflower II", "/tours/Boston/Full-Day-Plymouth-and-Cape-Cod-Tour-from-Boston/d678-5491P4", "A full day of Pilgrim history, with a stop in Quincy, home of two presidents.", "11 hours", 159, 4.8, "430+"),
+  ("Plimoth Patuxet Museums and Mayflower II Admission", "/tours/Plymouth/Plimoth-Patuxet-Museums/d50557-6324PLIM", "The 17th-century English village, the Wampanoag homesite, Mayflower II and the grist mill. Plymouth is about an hour south of Boston.", "4 to 5 hours", 35, 4.5, "500+"),
   ("Martha's Vineyard Day Trip with Optional Island Tour", "/tours/Boston/Day-Trip-to-Marthas-Vineyard/d678-5491MARTHA", "Coach and ferry from Boston with time to explore Oak Bluffs and Edgartown.", "12 hours", 129, 4.5, "3,300+"),
-  ("New Hampshire Fall Foliage and White Mountains Day Trip", "/tours/Boston/Fall-foliage-tour-in-New-Hampshire/d678-66192P4", "Peak color, covered bridges and mountain views, with the driving done for you.", "12 hours", 150, 4.8, "300+"),
   ("Private Day Trip to Lexington and Concord", "/tours/Boston/Private-Day-Trip-to-Lexington-and-Concord-from-Boston/d678-400049P5", "Battle Road, the Old North Bridge and Walden Pond with your own guide and vehicle.", "6.5 hours", 453, 5.0, "35+"),
   ("Private Day Trip to Salem and Hammond Castle", "/tours/Boston/Private-Day-Trip-to-Salem-and-Hammond-Castle-from-Boston/d678-400049P15", "Salem plus a castle on the Gloucester coast. A great fall outing.", "7 hours", 462, 4.8, "15+"),
  ],

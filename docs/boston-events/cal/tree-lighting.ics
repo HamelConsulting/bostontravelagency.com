@@ -3,10 +3,10 @@ VERSION:2.0
 PRODID:-//Boston Travel Agency//Events//EN
 BEGIN:VEVENT
 UID:tree-lighting-2026@bostontravelagency.com
-DTSTAMP:20261023T000000Z
+DTSTAMP:20261101T000000Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
-SUMMARY:Boston Common Tree Lighting (typical dates, confirm before booking)
+SUMMARY:Boston Common Tree Lighting
 LOCATION:Boston Common\, Boston area
 DESCRIPTION:Carolers\, ice skating on the Frog Pond and thousands of twinkling lights draped through Boston Common\, all leading up to the countdown to light the city's official Christmas tree. More: https://bostontravelagency.com/boston-events/#tree-lighting
 URL:https://bostontravelagency.com/boston-events/#tree-lighting

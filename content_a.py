@@ -21,7 +21,7 @@ FREEDOM = {
    "<strong>USS Constitution and Bunker Hill.</strong> Across the river in Charlestown, Old Ironsides, launched in 1797, is the oldest commissioned warship still afloat. Up the hill, a 221-foot granite obelisk marks the Battle of Bunker Hill, fought June 17, 1775.",
   ]},
   {"h": "Boston at 250", "img": "faneuil", "paras": [
-   "Boston is in the middle of marking the 250th anniversary of the American Revolution, from the Tea Party and Lexington and Concord through the Declaration of Independence in 1776. Expect special events, reenactments and busier sites, especially around anniversary dates. If you have been meaning to [[walk the Freedom Trail|/tours/Boston/Tour-of-The-Freedom-Trail/d678-75734P1]], there has never been a better time.",
+   "Boston has been marking the 250th anniversary of the American Revolution, from the Tea Party and Lexington and Concord to the Declaration of Independence, celebrated in July 2026. Anniversary events and reenactments continue, so expect busier sites around key dates. If you have been meaning to [[walk the Freedom Trail|/tours/Boston/Tour-of-The-Freedom-Trail/d678-75734P1]], there has never been a better time.",
   ]},
  ],
  "feature": {"h": "All 16 official Freedom Trail sites", "cols": True, "items": [
