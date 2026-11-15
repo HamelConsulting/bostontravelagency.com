@@ -3,10 +3,10 @@ VERSION:2.0
 PRODID:-//Boston Travel Agency//Events//EN
 BEGIN:VEVENT
 UID:head-of-the-charles-2027@bostontravelagency.com
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20271015
-DTEND;VALUE=DATE:20271018
-SUMMARY:Head of the Charles Regatta (typical dates, confirm before booking)
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20271022
+DTEND;VALUE=DATE:20271025
+SUMMARY:Head of the Charles Regatta
 LOCATION:Charles River\, Boston area
 DESCRIPTION:Thousands of rowing crews race up the winding Charles River\, three at a time\, while spectators line the bridges and riverbanks with coffee\, cider donuts and blankets. More: https://bostontravelagency.com/boston-events/#head-of-the-charles
 URL:https://bostontravelagency.com/boston-events/#head-of-the-charles

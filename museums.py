@@ -1,8 +1,8 @@
 # Boston museums and attractions page, with Boston CityPASS(R) featured.
-# CityPASS facts from citypass.com/boston (checked October 2026). Update prices when they change.
+# CityPASS facts from citypass.com/boston (checked October 2026, rechecked November 15, 2026). Update prices when they change.
 
 CITYPASS_URL = "https://www.anrdoezrs.net/click-101910852-17329798"  # CJ link: PID 101910852 (Boston Travel Guide), ad 17329798
-CITYPASS_AS_OF = "October 2026"
+CITYPASS_AS_OF = "November 2026"
 CITYPASS = {
     "adult": "$84", "child": "$72", "adult_reg": "$152.95", "child_reg": "$122.30",
     "save": "up to 45%", "days": 9,
